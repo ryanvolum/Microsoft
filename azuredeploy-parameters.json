@@ -1,8 +1,8 @@
 {
     "redisCacheName": {
-        "value": "CacheName"
+        "value": "ryvolumtestcache"
         },
     "redisCacheLocation": {
-        "value": "West US"
+        "value": "Japan West"
         }
 }
