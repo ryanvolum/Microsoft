@@ -54,7 +54,7 @@
             "type": "Microsoft.Cache/Redis",
             "location": "[parameters('redisCacheLocation')]",
             "properties": {
-                "virtualNetworkGuid": "{4e2254b3-bb9a-4614-a98f-77b745272341}",
+                "virtualNetwork": "4e2254b3-bb9a-4614-a98f-77b745272341",
                 "subnet": "RedisSubNet",
                 "staticIP": "192.168.3.12",
                 "sku": {
